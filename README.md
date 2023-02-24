@@ -55,4 +55,4 @@
 ![Название скриншота](ссылка на скриншот)`
 
 
-[def]: ttps://github.com/Livchak/8-03hw/blob/main/gitlab-ci.ym
+[def]: https://github.com/Livchak/8-03hw/blob/main/gitlab-ci.ym
