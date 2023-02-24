@@ -10,10 +10,10 @@
 2. `Зарегестрировал runner "mashina-v-dokere"`
 
 **Скриншот 1**
-<img src = "img/Runner#1.jpg" width = 100%>
+<img src = "img/Runner1.jpg" width = 100%>
 
 **Скриншот 2**
-<img src = "img/Runner#1-2.jpg" width = 100%>
+<img src = "img/Runner1-2.jpg" width = 100%>
 
 ---
 
