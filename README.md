@@ -27,7 +27,7 @@
 	"git pull origin main --allow-unrelated-histories"
 	"git push --set-upstream origin main"
 2. `ссылка на пайплайн который я использовал для выполнения задания`  
-	<[def]> Сам не придумывал, взял из упражнения
+	<[Gitlab-ci]> Сам не придумывал, взял из упражнения
 3. `Заполните здесь этапы выполнения, если требуется ....`
 
 ---
@@ -55,4 +55,4 @@
 ![Название скриншота](ссылка на скриншот)`
 
 
-[def]: https://github.com/Livchak/8-03hw/blob/main/gitlab-ci.ym
+[Gitlab-ci]: https://github.com/Livchak/8-03hw/blob/main/gitlab-ci.yml
