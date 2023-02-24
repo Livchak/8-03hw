@@ -27,12 +27,14 @@
 	"git pull origin main --allow-unrelated-histories"
 	"git push --set-upstream origin main"
 2. `ссылка на пайплайн который я использовал для выполнения задания`  
-	<[Gitlab-ci]> Сам не придумывал, взял из упражнения
+	<[Gitlab-ci]> Сам не придумывал, взял из упражнения  
+
+
 **Скриншот 3**
-<img src = "img/Pip1.jpg" width = 100%>
+<img src = "img/Pip1.jpg" width = 100%>  
 
 **Скриншот 4**
-<img src = "img/Pip2.jpg" width = 70%>
+<img src = "img/Pip2.jpg" width = 85%>
 
 
 ---
