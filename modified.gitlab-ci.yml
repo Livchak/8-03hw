@@ -1,0 +1,20 @@
+stages:
+  - test
+  - build
+test_manual:
+  stage: test
+  image: golang:1.17
+  script: 
+   - go test .
+  only:
+    changes:
+      - "**/*.go"
+
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+  only:
+    changes:
+      - "**/*"

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://gitlab.localdomain/gitlab-instance-0872a7b5/my_project/-/blob/main/.gitlab-ci.yml
+HostUrl=http://gitlab.localdomain/gitlab-instance-0872a7b5/my_project/-/raw/main/.gitlab-ci.yml?inline=false
