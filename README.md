@@ -49,16 +49,9 @@
 2. <[Gitlab-ci-modified]>
 
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+**Скриншот задания 3**
+<img src = "img/git-modified-pipeline.jpg" width = 85%>
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
 
 
 [Gitlab-ci-original]: https://github.com/Livchak/8-03hw/blob/main/original.gitlab-ci.yml
